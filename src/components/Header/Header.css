@@ -1,0 +1,25 @@
+nav{
+    background-color: rgb(216, 230, 236);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav a{
+    margin-right: 5px;
+    font-size: large;
+    text-decoration: none;
+}
+nav button{
+    background-color: rgb(102, 131, 216);
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    color: white;
+    
+}
+nav a:hover{
+    background-color: rgb(198, 146, 210);
+}
+nav h1{
+    font-size: xx-large;
+}
