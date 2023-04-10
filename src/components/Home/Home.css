@@ -18,12 +18,14 @@
 }
 .JCL{
     text-align: center;
+    margin-top: 50px;
    
 }
 .job-info{
     display: flex;
     justify-content: space-evenly;
 }
+
 .job-info img{
     height: 60px;
     width: 60px;
@@ -38,3 +40,12 @@ align-items: center;
 
 
 }
+
+@media (max-width: 600px) {
+    .job-info {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 5px;
+    }
+  }

@@ -1,0 +1,50 @@
+[
+    {
+      "jobTitle": "Front End Developer",
+      "companyLogo": "https://www.example.com/logos/company1.png",
+      "jobType": "Remote",
+      "time": "Full Time",
+      "location": "Dhaka",
+      "salary": "$60,000 - $80,000"
+    },
+    {
+      "jobTitle": "UX Designer",
+      "companyLogo": "https://www.example.com/logos/company2.png",
+      "jobType": "Onsite",
+      "time": "Part Time",
+      "location": "Chittagong",
+      "salary": "$40,000 - $50,000"
+    },
+    {
+      "jobTitle": "Marketing Manager",
+      "companyLogo": "https://www.example.com/logos/company3.png",
+      "jobType": "Remote",
+      "time": "Full Time",
+      "location": "Dhaka",
+      "salary": "$70,000 - $90,000"
+    },
+    {
+      "jobTitle": "Software Engineer",
+      "companyLogo": "https://www.example.com/logos/company4.png",
+      "jobType": "Onsite",
+      "time": "Full Time",
+      "location": "Chittagong",
+      "salary": "$80,000 - $100,000"
+    },
+    {
+      "jobTitle": "Data Analyst",
+      "companyLogo": "https://www.example.com/logos/company5.png",
+      "jobType": "Remote",
+      "time": "Part Time",
+      "location": "Dhaka",
+      "salary": "$50,000 - $60,000"
+    },
+    {
+      "jobTitle": "Sales Representative",
+      "companyLogo": "https://www.example.com/logos/company6.png",
+      "jobType": "Onsite",
+      "time": "Full Time",
+      "location": "Chittagong",
+      "salary": "$60,000 - $70,000"
+    }
+  ]
