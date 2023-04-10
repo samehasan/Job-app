@@ -53,11 +53,15 @@ const Home = () => {
         </div>
        
       </div>
-      <div>
+      <h1 className='ftr'>Featured Jobs</h1>
+      <p className='ftr'>Explore thousands of job opportunities with all the information you need. Its your future</p>
+      <div className='jobs-cont'>
+    
        {
         jobb.map(job=><Job
         key={job.jobTitle} job={job}></Job>)
        }
+       <button>See all</button>
       </div>
     </div>
   );

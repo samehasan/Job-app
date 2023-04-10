@@ -40,12 +40,26 @@ align-items: center;
 
 
 }
-
+.jobs-cont{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+    justify-items: center;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+}
+.ftr{
+    text-align: center;
+}
 @media (max-width: 600px) {
     .job-info {
       flex-direction: column;
       align-items: center;
       justify-content: center;
       gap: 5px;
+    }
+    .jobs-cont{
+        grid-template-columns: repeat(1, 1fr);
     }
   }

@@ -1,0 +1,14 @@
+.home-container{
+    border: 2px solid rgb(229, 224, 224);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.home-container img{
+    width: 116.69px;
+height: 60px;
+}
+.icon{
+    height: 15px;
+    width: 15px;
+}

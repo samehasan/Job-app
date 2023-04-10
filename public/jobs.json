@@ -1,50 +1,50 @@
 [
     {
       "jobTitle": "Front End Developer",
-      "companyLogo": "https://www.example.com/logos/company1.png",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-SAUiwSRm6spZnWB4ZzqlMvEG76D0xrfSL3wpw-u&s",
       "jobType": "Remote",
       "time": "Full Time",
       "location": "Dhaka",
-      "salary": "$60,000 - $80,000"
+      "salary": "60,000 - 80,000"
     },
     {
       "jobTitle": "UX Designer",
-      "companyLogo": "https://www.example.com/logos/company2.png",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuN3aq20jEAJvYR-qvI-pqDRw0FfGtqa4EkEge0da1&s",
       "jobType": "Onsite",
       "time": "Part Time",
       "location": "Chittagong",
-      "salary": "$40,000 - $50,000"
+      "salary": "40,000 - 50,000"
     },
     {
       "jobTitle": "Marketing Manager",
-      "companyLogo": "https://www.example.com/logos/company3.png",
+      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMhF9vHCsMQRbblDKAuI3hfG6-0J7nBQ9Mg&usqp=CAU",
       "jobType": "Remote",
       "time": "Full Time",
       "location": "Dhaka",
-      "salary": "$70,000 - $90,000"
+      "salary": "70,000 - 90,000"
     },
     {
       "jobTitle": "Software Engineer",
-      "companyLogo": "https://www.example.com/logos/company4.png",
+      "companyLogo": "https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-facebook-social-media-icon-png-image_6315968.png",
       "jobType": "Onsite",
       "time": "Full Time",
       "location": "Chittagong",
-      "salary": "$80,000 - $100,000"
+      "salary": "80,000 - 100,000"
     },
     {
       "jobTitle": "Data Analyst",
-      "companyLogo": "https://www.example.com/logos/company5.png",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png",
       "jobType": "Remote",
       "time": "Part Time",
       "location": "Dhaka",
-      "salary": "$50,000 - $60,000"
+      "salary": "50,000 - 60,000"
     },
     {
       "jobTitle": "Sales Representative",
-      "companyLogo": "https://www.example.com/logos/company6.png",
+      "companyLogo": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/clothing-and-accessories-companies/bata-logo.png",
       "jobType": "Onsite",
       "time": "Full Time",
       "location": "Chittagong",
-      "salary": "$60,000 - $70,000"
+      "salary": "60,000 - 70,000"
     }
   ]
