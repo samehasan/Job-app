@@ -1,0 +1,29 @@
+[
+    { 
+      "id":11,
+      "image": "https://images.ctfassets.net/pdf29us7flmy/6CUCq15966GPkPR9gJbPSP/2fd7431ed38ec4fb8ca16365868e7c8e/Virtual_Interview_8.png?w=720&q=100&fm=avif",
+      "jobTitle": "Software Engineer",
+     
+      "availableSeats": 30
+    },
+    {
+        "id":12,
+      "image": "https://www.aihr.com/wp-content/uploads/job-analysis-cover.png",
+      "jobTitle": "Data Analyst",
+     
+      "availableSeats": 150
+    },
+    {
+        "id":13,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1MTgIT0fRlD5KIg4AyqRTw2TqI7zWea9C0w&usqp=CAU",
+      "jobTitle": "Marketing Specialist",
+     
+      "availableSeats": 200
+    },
+    {
+        "id":14,
+      "image": "https://www.aihr.com/wp-content/uploads/Job-design-featured.jpg",
+      "jobTitle": "Graphic Designer",
+      "availableSeats": 100
+    }
+  ]

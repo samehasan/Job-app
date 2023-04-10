@@ -16,3 +16,25 @@
 .blue-font{
     color: rgb(76, 76, 232);
 }
+.JCL{
+    text-align: center;
+   
+}
+.job-info{
+    display: flex;
+    justify-content: space-evenly;
+}
+.job-info img{
+    height: 60px;
+    width: 60px;
+    margin-top: 20px;
+}
+.job-info div{
+    background-color: rgb(214, 237, 229);
+    width: 250px;
+height: 200px;
+border-radius: 8px;
+align-items: center;
+
+
+}
