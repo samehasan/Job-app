@@ -4,10 +4,15 @@ import jclData from './../../../public/jcl.json';
 import { useLoaderData } from 'react-router-dom';
 import Job from '../Job/Job';
 
+
+
 const Home = () => {
   const [jobs, setJobs] = useState([]);
   const jobb=useLoaderData();
-
+ 
+    const handlejobdetail=job=>{
+       console.log(job);
+    }
   useEffect(() => {
     setJobs(jclData);
   }, []);
@@ -59,9 +64,11 @@ const Home = () => {
     
        {
         jobb.map(job=><Job
-        key={job.jobTitle} job={job}></Job>)
+        key={job.jobTitle} job={job}
+        handlejobdetail={handlejobdetail}
+        ></Job>)
        }
-       <button>See all</button>
+       <button>See all Jobs</button>
       </div>
     </div>
   );
