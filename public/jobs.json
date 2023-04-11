@@ -1,50 +1,150 @@
 [
     {
-      "jobTitle": "Front End Developer",
-      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-SAUiwSRm6spZnWB4ZzqlMvEG76D0xrfSL3wpw-u&s",
-      "jobType": "Remote",
-      "time": "Full Time",
-      "location": "Dhaka",
-      "salary": "60,000 - 80,000"
-    },
-    {
-      "jobTitle": "UX Designer",
-      "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuN3aq20jEAJvYR-qvI-pqDRw0FfGtqa4EkEge0da1&s",
-      "jobType": "Onsite",
-      "time": "Part Time",
-      "location": "Chittagong",
-      "salary": "40,000 - 50,000"
-    },
-    {
+        "id": "1",
+        "jobTitle": "Front End Developer",
+        "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7-SAUiwSRm6spZnWB4ZzqlMvEG76D0xrfSL3wpw-u&s",
+        "jobType": "Remote",
+        "time": "Full Time",
+        "location": "Dhaka",
+        "salary": "60,000 - 80,000",
+        "description": "The Front End Developer will be responsible for implementing designs into web applications, ensuring the best possible user experience, and collaborating with back-end developers to ensure seamless integration with the server-side code.",
+        "responsibilities": [
+          "Implement designs into web applications using HTML, CSS, and JavaScript.",
+          "Ensure the best possible user experience by following responsive design principles and optimizing for performance.",
+          "Collaborate with back-end developers to ensure seamless integration with the server-side code.",
+          "Troubleshoot and debug issues that arise during development and in production."
+        ],
+        "requirements": [
+          "Proven experience as a Front End Developer or similar role.",
+          "Familiarity with HTML, CSS, JavaScript, and related web technologies.",
+          "Experience with front-end frameworks such as React or Angular.",
+          "Strong problem-solving and debugging skills."
+        ],
+        "Phone": "017512340",
+       "Email" : "farrl.com",
+      "Address" : "Toronto",
+        "experience": "2+ years of experience in front-end web development."
+      },
+      {
+        "id": "2",
+        "jobTitle": "UX Designer",
+        "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuN3aq20jEAJvYR-qvI-pqDRw0FfGtqa4EkEge0da1&s",
+        "jobType": "Onsite",
+        "time": "Part Time",
+        "location": "Chittagong",
+        "salary": "40,000 - 50,000",
+        "Phone": "017598650",
+        "Email" : "samgmail.com",
+       "Address" : "london",
+        "description": "The UX Designer will be responsible for creating user-centered designs, wireframes, and prototypes that meet the needs of our clients and their customers.",
+        "responsibilities": [
+          "Work with clients to understand their requirements and user needs.",
+          "Create wireframes, prototypes, and high-fidelity designs that meet user needs and business objectives.",
+          "Collaborate with developers and other designers to ensure the best possible user experience.",
+          "Conduct user research and usability testing to inform design decisions."
+        ],
+        "requirements": [
+          "Proven experience as a UX Designer or similar role.",
+          "Familiarity with design tools such as Sketch, Figma, or Adobe Creative Suite."
+        ],
+        "experience": "2+ years of experience in front-end web development."
+      },
+    {"id":"3",
       "jobTitle": "Marketing Manager",
       "companyLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIMhF9vHCsMQRbblDKAuI3hfG6-0J7nBQ9Mg&usqp=CAU",
       "jobType": "Remote",
       "time": "Full Time",
       "location": "Dhaka",
-      "salary": "70,000 - 90,000"
+      "salary": "70,000 - 90,000",
+      "Phone": "01750-07845",
+      "Email" : "ydgo@gmail.com",
+     "Address" : "gulshan",
+      "description": "The Marketing Manager will be responsible for creating user-centered designs, wireframes, and prototypes that meet the needs of our clients and their customers.",
+        "responsibilities": [
+          "Work with clients to understand their requirements and user needs.",
+          "Create wireframes, prototypes, and high-fidelity designs that meet user needs and business objectives.",
+          "Collaborate with developers and other designers to ensure the best possible user experience.",
+          "Conduct user research and usability testing to inform design decisions."
+        ],
+        "requirements": [
+          "Proven experience as a Marketing Manager or similar role.",
+          "Familiarity with design tools such as Sketch, Figma, or Adobe Creative Suite."
+        ],
+        "experience":"2+ years of experience in front-end web development."
     },
     {
+        "id":"4",
       "jobTitle": "Software Engineer",
       "companyLogo": "https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-facebook-social-media-icon-png-image_6315968.png",
       "jobType": "Onsite",
       "time": "Full Time",
       "location": "Chittagong",
-      "salary": "80,000 - 100,000"
-    },
+      "salary": "80,000 - 100,000",
+      "Phone": "017509",
+      "Email" : "inf7564gail.com",
+     "Address" : "halishahar 832",
+      "description": "TheSoftware Engineer will be responsible for creating user-centered designs, wireframes, and prototypes that meet the needs of our clients and their customers.",
+        "responsibilities": [
+          "Work with clients to understand their requirements and user needs.",
+          "Create wireframes, prototypes, and high-fidelity designs that meet user needs and business objectives.",
+          "Collaborate with developers and other designers to ensure the best possible user experience.",
+          "Conduct user research and usability testing to inform design decisions."
+        ],
+        "requirements": [
+          "Proven experience as a Software Engineer or similar role.",
+          "Familiarity with design tools such as Sketch, Figma, or Adobe Creative Suite."
+        ],
+        "experience": "2+ years of experience in front-end web development."
+      },
+    
     {
+        "id":"5",
       "jobTitle": "Data Analyst",
       "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png",
       "jobType": "Remote",
       "time": "Part Time",
       "location": "Dhaka",
-      "salary": "50,000 - 60,000"
+      "salary": "50,000 - 60,000",
+      "Phone": "01750-6757600",
+      "Email" : "inf57547547ail.com",
+     "Address" : "Dhanbchgxszdi 666",
+      "description": "The Data Analyst will be responsible for creating user-centered designs, wireframes, and prototypes that meet the needs of our clients and their customers.",
+        "responsibilities": [
+          "Work with clients to understand their requirements and user needs.",
+          "Create wireframes, prototypes, and high-fidelity designs that meet user needs and business objectives.",
+          "Collaborate with developers and other designers to ensure the best possible user experience.",
+          "Conduct user research and usability testing to inform design decisions."
+        ],
+        "requirements": [
+          "Proven experience as a Data Analyst or similar role.",
+          "Familiarity with design tools such as Sketch, Figma, or Adobe Creative Suite."
+        ],
+        "experience": "2+ years of experience in front-end web development."
+      
     },
     {
+        "id":"6",
       "jobTitle": "Sales Representative",
       "companyLogo": "https://hindubabynames.info/downloads/wp-content/themes/hbn_download/download/clothing-and-accessories-companies/bata-logo.png",
       "jobType": "Onsite",
       "time": "Full Time",
       "location": "Chittagong",
-      "salary": "60,000 - 70,000"
+      "salary": "60,000 - 70,000",
+      "Phone": "01750-047547540",
+      "Email" : "info@gghjdhfdmail.com",
+     "Address" : "Dhanmctgdhdndi 32",
+      "description": "The Sales Representative will be responsible for creating user-centered designs, wireframes, and prototypes that meet the needs of our clients and their customers.",
+        "responsibilities": [
+          "Work with clients to understand their requirements and user needs.",
+          "Create wireframes, prototypes, and high-fidelity designs that meet user needs and business objectives.",
+          "Collaborate with developers and other designers to ensure the best possible user experience.",
+          "Conduct user research and usability testing to inform design decisions."
+        ],
+        "requirements": [
+          "Proven experience as aSales Representative or similar role.",
+          "Familiarity with design tools such as Sketch, Figma, or Adobe Creative Suite."
+        ],
+        "experience":"2+ years of experience in front-end web development."
+    
     }
   ]

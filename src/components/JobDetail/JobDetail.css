@@ -1,0 +1,18 @@
+.job-conta{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid rgb(244, 236, 236);
+    gap: 50px;
+
+}
+.bigfont{
+    font-size: large;
+    font-weight: bold;
+}
+.job-conta1{
+    margin:80px;
+}
