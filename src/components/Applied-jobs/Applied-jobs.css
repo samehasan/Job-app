@@ -1,0 +1,42 @@
+.filtering{
+    display: flex;
+    justify-content: end;
+    margin-right: 80px;
+    margin-bottom:60px ;
+    
+
+
+}
+select option {
+    background-color: rgb(214, 204, 204);
+    color: black;
+    padding: 8px 16px;
+  }
+  
+  /* Style the selected option */
+  select option:checked {
+    background-color: rgb(117, 222, 150);
+    color: rgb(29, 6, 6);
+  }
+.job-type-select {
+    background-color: #9af3e4;
+    color: #333;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: 3px solid #716767;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .job-type-select option {
+    background-color: #fff;
+    color: #333;
+    padding: 0.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  
+  .job-type-select option:hover {
+    background-color: #f5d6d6;
+  }
+  
