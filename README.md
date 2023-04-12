@@ -10,11 +10,11 @@
     you will see the cart of jobs that you have applied in previous.you van filter them by dropdown button .
 ## Blog Page
     here you will get some answers of important questions
-    
+
 ## React
 ## CSS
 ## Live Link
-Hosted in Netlify -> (https://herogadget.netlify.app/)
+Hosted in Netlify -> (https://zesty-narwhal-231ddd.netlify.app/applied-jobs)
 
 ## HEro icon 
  
