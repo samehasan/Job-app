@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import { useLoaderData, useParams } from 'react-router-dom';
 import './JobDetail.css';
 import {PhoneIcon,CurrencyDollarIcon,IdentificationIcon,NewspaperIcon, MapIcon } from '@heroicons/react/24/solid'
+import { addToDb } from '../../utils/fakeDB';
 const JobDetail = () => {
   const { id } = useParams();
   const jobs = useLoaderData(data => data);
@@ -17,7 +18,12 @@ const JobDetail = () => {
     return <div>Loading...</div>;
   }
 
-  const { jobTitle, description,responsibilities,requirements,experience,Email,Address,Phone, location, salary } = jobs.find(job => job.id == id);
+  const {jobTitle, description,responsibilities,requirements,experience,Email,Address,Phone, location, salary } = jobs.find(job => job.id == id);
+
+ const handleAddTo=id=>{
+    console.log(id)
+    addToDb(id)
+ } 
 
   return (
     
@@ -37,7 +43,12 @@ const JobDetail = () => {
         <p><PhoneIcon className='icon' />Phone:{Phone}</p>
         <p><NewspaperIcon className='icon' />Email:{Email} </p>
         <p><MapIcon className='icon' />Address:{Address}</p>
-        <button>Apply Now</button>
+        <button
+        onClick={() => handleAddTo(id)}
+        className='btn'
+      >
+        Apply Now
+      </button>
       </div>
     </div>
   );
