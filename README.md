@@ -14,7 +14,7 @@
 ## React
 ## CSS
 ## Live Link
-Hosted in Netlify -> (https://zesty-narwhal-231ddd.netlify.app/applied-jobs)
+Hosted in Netlify -> (https://zesty-narwhal-231ddd.netlify.app/)
 
 ## HEro icon 
  
